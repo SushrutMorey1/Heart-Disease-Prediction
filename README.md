@@ -28,7 +28,7 @@ A working model that can help predict heart disease likelihood based on key medi
 
 
 
-## 📌 Note
+##  Note
 
 This is a personal learning project aimed at applying core ML concepts and improving model explainability.
 
